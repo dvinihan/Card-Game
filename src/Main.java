@@ -14,10 +14,10 @@ public class Main {
 	}
 	
 	public static void main(String[] args) {
-//		Holdem h = new Holdem(playersThisGame);
-//		h.gameLoop();
+		Holdem h = new Holdem(playersThisGame);
+		h.gameLoop();
 		
-		ImageTest test = new ImageTest();
+//		ImageTest test = new ImageTest();
 		
 	}
 	
